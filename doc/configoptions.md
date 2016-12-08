@@ -110,7 +110,7 @@
 
 - linuxrc=&lt;absolute_filename&gt;
 
-  use the specified linuxrc (taken from the running system!)
+  use the specified linuxrc (taken from the running system!). Caveats may apply: please also refer to the [linuxrc docs](https://github.com/openSUSE/linuxrc) and the [troubleshooting section](#troubleshooting-/-hacks).
 
 - mkdevs=1
 
